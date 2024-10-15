@@ -10,8 +10,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wojakfinance/wojak-frontend.git",
-    "directory": "packages/swap-sdk"
+    "url": "https://github.com/chewyswap/chewyswap-sdk.git",
+    "directory": "chewyswap-sdk"
   },
   "keywords": [
     "chewy",
