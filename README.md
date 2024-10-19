@@ -17,7 +17,7 @@ git clone https://github.com/chewyswap/chewyswap-sdk.git
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd swap-sdk/
 ```
 
 Install dependencies
